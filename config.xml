@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>post_barcode</name>
+	<displayName><![CDATA[Swiss Post Barcode generator]]></displayName>
+	<version><![CDATA[0.1.0]]></version>
+	<description><![CDATA[This module uses the swiss Post barcode webservice enabling you to add a tracking barcode to any parcel you ship]]></description>
+	<author><![CDATA[FirstPoint]]></author>
+	<tab><![CDATA[shipping_logistics]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
